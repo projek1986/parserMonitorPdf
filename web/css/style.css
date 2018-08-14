@@ -1,0 +1,106 @@
+body{
+    margin: 0 auto;
+}
+.preview{
+    margin-bottom: 20px;
+}
+
+/*----old----*/
+.panel-default{
+    margin-top: 20px;
+}
+
+.sidebar {
+    padding: 0 !important;
+}
+
+.list-group-item {
+    padding:10px 20px;
+    border: none;
+    border-radius: 0px!important;
+    background-color: #f5f5f5;
+}
+
+.list-group-item:hover {
+    background-color: #eee!important;
+}
+
+.active,.active:hover {
+    background-color: #428bca!important;
+}
+
+.nav-sidebar > li > a {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #555;
+}
+.prewview-container {
+    margin-top: 30px;
+    padding: 20px 0px;
+    border-top: 1px solid #e3e3d6;
+ }
+
+.prewview-container img {
+    max-width: 100%;
+}
+
+.myTable{
+    padding: 10px;
+    max-height: 500px;
+    overflow-y:scroll;
+}
+
+.myTable .header{
+    font-weight: bold;
+    border-bottom: solid 1px #000000;
+    padding: 15px;
+}
+
+.myTable .row-table{
+    margin: 10px 0px;
+    border-bottom: solid 1px #939496;
+    padding-bottom: 10px;
+}
+
+.edit-button{
+    margin-right: 10px;
+}
+.back-button{
+    margin: 40px 20px;
+}
+.input-name{
+    margin-bottom: 50px;
+}
+
+.line-horizontal{
+    border-bottom:1px solid #e3e3d6;
+    margin: 20px 0px;
+}
+
+.sub_list_button{
+    width: 147px;
+    margin-bottom: 10px;
+}
+
+.jumbotron{
+    padding: 10px;
+}
+.jumbotron p{
+   margin-bottom: 4px; 
+}
+
+.page-header {
+    margin: 10px 0 1px!important;
+}
+.field-title{
+    font-size: 77%;
+}
+.btn-success, .btn-default, .btn-danger, .btn-primary,.btn-info,.btn-warning, .form-control{
+      border-radius: 0;
+}
+.small-buttons{
+    border-radius: 0;
+    margin-bottom: 5px;
+    font-size: 11px;
+    width: 75px;
+}
